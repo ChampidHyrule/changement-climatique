@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    }
+  
+  
+  h1 {
+    color: rgb(255, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  p {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  h2 { 
+    color: rgb(177, 237, 255) ;
+    font-family: 'Times New Roman', Times, serif;
+  }
